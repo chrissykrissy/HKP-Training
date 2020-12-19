@@ -1,0 +1,9 @@
+var myDog = {
+// Only change code below this line
+    "name" : "cute",
+    "legs" : 4,
+    "tails" : 1,
+    "friends" : ["hi", "hello"]
+
+// Only change code above this line
+};
