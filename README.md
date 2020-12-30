@@ -4,7 +4,7 @@
 | Day 1      |   ✅    |
 | Day 2      |   ✅    |
 | Day 3      |   ✅    |
-| Day 4      |       |
+| Day 4      |   ✅    |
 | Days 5-8   |       |
 | Day 9      |       |
 | Days 10-12 |       |
